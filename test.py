@@ -2,7 +2,7 @@
 import pandas as pd
 import numpy as np
 
-dataset = pd.read_csv(r'C:\Users\Rachana Jena\Downloads\code-2\code-2\iris.csv')
+dataset = pd.read_csv('iris.csv')
 dataset.head()
 
 #test case
